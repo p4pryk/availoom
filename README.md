@@ -64,7 +64,7 @@ These are a snapshot of one account, not default values or a promised allowance.
 
 For this pre-release, the verified platform is **Apple Silicon macOS**. An existing Codex CLI installation signed in to the account you want to inspect is required for quota readings. Availoom does not provide a login flow.
 
-If you have a release ZIP, extract `Availoom.app`, move it to `/Applications`, then open it. Install it at its permanent location before enabling **Launch at login**. This repository also supports building from source below. A macOS Apple Silicon build is provided with the [0.7.1 pre-release](https://github.com/p4pryk/availoom/releases/tag/v0.7.1). Repository and release access are currently private.
+If you have a release ZIP, extract `Availoom.app`, move it to `/Applications`, then open it. Install it at its permanent location before enabling **Launch at login**. This repository also supports building from source below. A macOS Apple Silicon build is provided with the [0.7.1 pre-release](https://github.com/p4pryk/availoom/releases/tag/v0.7.1). The repository and pre-release downloads are public.
 
 1. Open **Codex → Connect Codex**.
 2. Review the detected executable and reading scope.
